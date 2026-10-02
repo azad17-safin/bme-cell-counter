@@ -8,7 +8,7 @@ Built using **Python, OpenCV, NumPy, Pandas, and Matplotlib**, this tool replace
 
 ## 📸 Visual Summary & Dashboard
 
-![Detection Dashboard](output/detection_dashboard.png)
+![Detection Dashboard](detection_dashboard.png)
 
 *Figure 1: Automated 4-panel diagnostic summary showing (1) Original RGB microscopy image, (2) Noise-filtered Otsu thresholded binary mask, (3) Annotated cell boundaries with ID tracking, and (4) Cell diameter distribution histogram.*
 
